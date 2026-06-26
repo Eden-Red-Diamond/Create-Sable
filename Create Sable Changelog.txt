@@ -10,7 +10,12 @@ Updated Mods:
 - Xaero's World Map 1.40.16 -> 1.41.2
 - Sodium 0.8.12-beta.1 -> 0.8.12-beta.2
 
-1.1.0 Changelog
+1.1.0 Upcoming Update Changelog:
+
+KubeJS:
+Added Create Gearworks Tab
+
+
 
 Mods Added:
 Create Bionics
