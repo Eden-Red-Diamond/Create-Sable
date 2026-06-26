@@ -1,0 +1,22 @@
+1.0.3 Changelog:
+- Updated Neoforge Version
+Mods Added:
+- Smooth Boot
+- Mem Leak Fix GPU
+- Create: Blocks and Bogies
+- Create Railways Navigator
+
+Updated Mods:
+- Xaero's World Map 1.40.16 -> 1.41.2
+- Sodium 0.8.12-beta.1 -> 0.8.12-beta.2
+
+1.1.0 Changelog
+
+Mods Added:
+Create Bionics
+Create: Connected
+Create: Bells and Whistles
+Create: Interiors
+Create: Radars
+Create: Storage
+Create: Steam 'n' Rails Neoforge (Fork)
