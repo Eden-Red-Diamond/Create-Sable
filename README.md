@@ -2,7 +2,6 @@
 A pure sandbox engineering modpack focused on Create (and it's add-ons), mechanical automation, and aeronautical physics.
 
 <hr>
-![Create Sable Welcome](https://cdn.modrinth.com/data/cached_images/1cb1d6020a77a940243172ef5f3365ac7d8955b1.png)
 
 
 ### Welcome to Create: Sable!
