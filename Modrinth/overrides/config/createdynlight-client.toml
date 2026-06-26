@@ -1,0 +1,34 @@
+#.
+#Enable client-side SodiumDynamicLights lighting for light-emitting blocks mounted on Create contraptions.
+enableSodiumDynamicLight = true
+#.
+#Multiplier applied to each contraption or Sable light source luminance.
+# Default: 1.0
+# Range: 0.0 ~ 2.0
+luminanceMultiplier = 1.0
+#.
+#Kept for config compatibility. SodiumDynamicLights controls its own renderer update loop, so this only affects this addon's local source update interval.
+ignoreSodiumModeSetting = true
+#.
+#Minimum time in milliseconds between position/luminance syncs for each contraption or Sable light. 0 means every renderer update.
+# Default: 0
+# Range: 0 ~ 500
+updateInterval = 0
+#.
+#Enable client-side dynamic lighting for light-emitting blocks inside Sable sub-levels. This also covers Create Aeronautics vehicles because they are Sable sub-levels.
+enableSableDynamicLight = true
+#.
+#How often, in milliseconds, to rescan loaded Sable sub-level chunks for added/removed light-emitting blocks.
+# Default: 250
+# Range: 50 ~ 5000
+sableScanInterval = 250
+#.
+#Minimum vanilla block light emission required before a Sable sub-level block becomes a dynamic light source.
+# Default: 1
+# Range: 1 ~ 15
+sableLightEmissionLowerLimit = 1
+#.
+#Safety cap for dynamic light sources per Sable sub-level scan. Raise this for very large vehicles with many lamps.
+# Default: 2048
+# Range: 16 ~ 16384
+maxSableLightSources = 2048

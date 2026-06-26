@@ -1,0 +1,17 @@
+#Whether to render trails behind physics objects in water (The whole mod purpose)
+sublevel_water_trails = true
+#Minimum velocity to start drawing trails
+# Default: 0.6
+# Range: 0.1 ~ 1.7976931348623157E308
+minimum_velocity = 0.6
+#Max number of trails a ship can have
+#(heavy performance impact)
+# Default: 24
+# Range: > 1
+max_trails_per_ship = 24
+#How many ticks between wakes calculations
+#The higher this option is set, the worse the quality of the trails will be.
+#(medium performance impact)
+# Default: 1
+# Range: > 1
+wakes_tick_rate = 1
