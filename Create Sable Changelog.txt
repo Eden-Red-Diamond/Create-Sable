@@ -13,17 +13,17 @@ Updated Mods:
 1.1.0 Upcoming Update Changelog:
 
 KubeJS:
-Added Create Gearworks Tab
+> Added Create Gearworks Tab
 
 
 
 Mods Added:
-Create Bionics
-Create: Connected
-Create: Bells and Whistles
-Create: Interiors
-Create: Radars
-Create: Storage
-Create: Steam 'n' Rails Neoforge (Fork)
-Vanilla Backport
-Creative Tab Layouts (Not yet released)
+- Create: Bionics
+- Create: Connected
+- Create: Bells and Whistles
+- Create: Interiors
+- Create: Radars
+- Create: Storage
+- Create: Steam 'n' Rails Neoforge (Fork)
+- Vanilla Backport
+- Creative Tab Layouts (Not yet released)
