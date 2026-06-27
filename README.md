@@ -35,13 +35,14 @@ There are no quests. No forced progression, no gated content, and no hand-holdin
 ### **Optimized for Performance:** 
 Built on Modrinth to ensure smooth frame rates and stable physics simulation, even when your massive airships are in mid-flight.
 
-## Building
-Simply run the ```build.sh``` using bash.
 
+<hr>
 ## Credits:
 **Team:** OffbrandCortz · Atlas_ · JestMeow
 
-<hr>
-
 ### **Note:**
 This modpack is still work in progress, we haven't touched the configurations. If there is any suggestion please join our [Discord!](https://discord.gg/gnyv8BurgA)
+
+## Building
+Simply run the ```build.sh``` using bash.
+
