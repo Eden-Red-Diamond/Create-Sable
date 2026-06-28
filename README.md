@@ -8,6 +8,15 @@ A pure sandbox engineering modpack focused on Create (and it's add-ons), mechani
 A modpack that focuses on your creativity, that is build around Create. This pack is designed for casual **thinkers**, **builders**, and **inventors** who want to push the boundaries of mechanical automation, electrical automation, ~~flight~~, and survival without being tied down by quest (WIP)
 
 <hr>
+
+## Vision:
+We made this with a purpose, To enchance creative mode, and ofcoruse Survival. Default Settings is such a headache, with cluttered Creative Menu, Most mods are Hard to understand to beginners. But here we are to fix it.
+
+### Beginner Friendly: 
+As i mean by this, that most players that are beginners on Create in general, are confused and don't know what to do, even myself. 
+To fix this we are adding a progressive system, starting from water wheel as Power Generators to more advanced Power generators but it's still on work in progress.
+
+<hr>
 You have the tools, Take it to the Skies, Build anything that is possible, No quest, Just be creative.
 
 ## Features:
@@ -25,13 +34,15 @@ There are no quests. No forced progression, no gated content, and no hand-holdin
 ### **Optimized for Performance:** 
 Built on Modrinth to ensure smooth frame rates and stable physics simulation, even when your massive airships are in mid-flight.
 
-## Building
-Run the ```build.sh``` using bash, and the ```.mrpack``` file will be in the dist folder.
-
-## Credits:
-**Team:** OffbrandCortz, Atlas_, JestMeow
 
 <hr>
 
+## Credits:
+**Team:** OffbrandCortz · Atlas_ · JestMeow
+
 ### **Note:**
 This modpack is still work in progress, we haven't touched the configurations. If there is any suggestion please join our [Discord!](https://discord.gg/gnyv8BurgA)
+
+## Building
+Simply run the ```build.sh``` using bash.
+
