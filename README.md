@@ -9,10 +9,10 @@ A modpack that focuses on your creativity, that is build around Create. This pac
 
 <hr>
 
-### Vision:
+## Vision:
 We made this with a purpose, To enchance creative mode, and ofcoruse Survival. Default Settings is such a headache, with cluttered Creative Menu, Most mods are Hard to understand to beginners. But here we are to fix it.
 
-Beginner Friendly: 
+### Beginner Friendly: 
 As i mean by this, that most players that are beginners on Create in general, are confused and don't know what to do, even myself. 
 To fix this we are adding a progressive system, starting from water wheel as Power Generators to morw advanced Power generators but it's still on work in progress.
 
