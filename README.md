@@ -14,7 +14,7 @@ We made this with a purpose, To enchance creative mode, and ofcoruse Survival. D
 
 ### Beginner Friendly: 
 As i mean by this, that most players that are beginners on Create in general, are confused and don't know what to do, even myself. 
-To fix this we are adding a progressive system, starting from water wheel as Power Generators to morw advanced Power generators but it's still on work in progress.
+To fix this we are adding a progressive system, starting from water wheel as Power Generators to more advanced Power generators but it's still on work in progress.
 
 <hr>
 You have the tools, Take it to the Skies, Build anything that is possible, No quest, Just be creative.
