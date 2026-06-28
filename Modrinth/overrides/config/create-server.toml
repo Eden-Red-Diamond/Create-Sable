@@ -15,10 +15,10 @@
 	#.
 	#.
 	#Allow the Mechanical Press to process entire stacks at a time.
-	bulkPressing = false
+	bulkPressing = true
 	#.
 	#Allow the Mechanical Saw to process entire stacks at a time.
-	bulkCutting = false
+	bulkCutting = true
 	#.
 	#Allow supported potions to be brewed by a Mechanical Mixer + Basin.
 	allowBrewingInMixer = true
@@ -422,7 +422,7 @@
 	#Maximum possible distance in blocks between display links and their target.
 	# Default: 64
 	# Range: > 1
-	displayLinkRange = 64
+	displayLinkRange = 256
 	#.
 	#The total amount of stacks a vault can hold per block in size.
 	# Default: 20
@@ -552,7 +552,7 @@
 	#Maximum amount of bogeys assembled as a single Train.
 	# Default: 20
 	# Range: 1 ~ 200
-	maxBogeyCount = 50
+	maxBogeyCount = 64
 	#.
 	#Relative speed of a manually controlled Train compared to a Scheduled one.
 	# Default: 0.75
@@ -601,4 +601,4 @@
 		#The acceleration of powered Trains.
 		# Default: 3.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainAcceleration = 3.0
+		poweredTrainAcceleration = 6.0

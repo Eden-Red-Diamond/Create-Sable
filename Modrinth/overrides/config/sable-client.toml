@@ -3,7 +3,7 @@ sub_level_dynamic_shading = true
 #Whether sub-levels can occlude the water surface
 sub_level_water_occlusion = true
 #Whether sub-levels should cast a shadow on the world
-sub_level_skylight_shadows = false
+sub_level_skylight_shadows = true
 #Whether to draw loaded chunks on the client in the chunk debug renderer
 debug_draw_loaded_chunks = false
 #The distance back in game-ticks that the snapshot interpolation should operate
