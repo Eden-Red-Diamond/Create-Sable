@@ -26,7 +26,7 @@ There are no quests. No forced progression, no gated content, and no hand-holdin
 Built on Modrinth to ensure smooth frame rates and stable physics simulation, even when your massive airships are in mid-flight.
 
 ## Building
-Simply run the ```build.sh``` using bash.
+Run the ```build.sh``` using bash, and the ```.mrpack``` file will be in the dist folder.
 
 ## Credits:
 **Team:** OffbrandCortz, Atlas_, JestMeow

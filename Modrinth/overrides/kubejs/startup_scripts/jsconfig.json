@@ -29,7 +29,7 @@
             "@special/*": [
                 "../../.probe/@special/*"
             ]
-        },
+        }
     },
     "typeAcquisition": {
         "enable": false
