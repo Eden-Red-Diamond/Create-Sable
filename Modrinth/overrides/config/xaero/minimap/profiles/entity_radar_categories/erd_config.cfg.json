@@ -52,9 +52,9 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
+            "heightLimit": 2050.0,
             "color": 7.0,
-            "icons": 2.0,
-            "heightLimit": 2050.0
+            "icons": 2.0
           },
           "subCategories": [
             {
@@ -124,9 +124,9 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 3.0,
+            "names": 0.0,
             "color": 4.0,
-            "icons": 0.0,
-            "names": 0.0
+            "icons": 0.0
           },
           "subCategories": [
             {

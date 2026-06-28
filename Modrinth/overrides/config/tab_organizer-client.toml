@@ -1,0 +1,12 @@
+[creative_tabs]
+	#Ordered list of creative tab ids
+	tab_order = []
+	#How tabs not listed in tab_order are placed
+	#Allowed Values: APPEND_ALPHABETICALLY, APPEND_ORIGINAL_ORDER
+	unspecified_mode = "APPEND_ALPHABETICALLY"
+
+[menu]
+	#Show the Tab Organizer button in the creative menu
+	show_creative_menu_button = true
+	#Show the config button in the Tabs Organizer screen
+	show_organizer_config_button = true
