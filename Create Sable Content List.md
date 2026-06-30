@@ -19,6 +19,7 @@
 - Sable
 - Ship Trails for Sable
 - Vanilla Backport
+- Ponder for KubeJS
 
 <hr>
 
@@ -26,6 +27,7 @@
 - CBC: Compact Mount
 - Create: Big Canons
 - Create: Blocks & Bogies
+- Create: Connected
 - Create: Copycats+
 - Create: Deco
 - Create: Design n' Decor
@@ -34,6 +36,7 @@
 - Create: Power Grid
 - Create: Railways Navigator
 - Create: Slice & Dice
+- Create: Steam 'n' Rails Neoforge (Fork)
 - Create: Steel armor blocks
 - Create: The Factory Must Grow
 - Create: Tweaked Controllers
@@ -81,6 +84,9 @@ Performance Mods:
 - Wakes Reforged
 - Xaero's Minimap
 - Xaero's World Map
+- REI
+- Jade
+- Creative Tab Organizer
 
 
 Resource Pack:

@@ -10,16 +10,29 @@ Updated Mods:
 - Xaero's World Map 1.40.16 -> 1.41.2
 - Sodium 0.8.12-beta.1 -> 0.8.12-beta.2
 
-1.x.x Upcoming Update Changelog:
+1.1.0 Update Changelog:
+
+> Configured some Mods
+- REI
+- Jade
+- Create
+- Xaero's Map and Minimap
+- Creative Tab Organizer
 
 KubeJS:
-> Added Create Gearworks Tab
-> Added Create Trackworks Tab
-
+- JavaScript Dynamic Tab Creator.
+> Added Create Gearworks Tab [Create, WIP: Create Connected, Ender Transmission, Etc.]
+> Added Create Pipeworks Tab [Create, WIP: TFMG, Etc.]
+> Added Create Trackworks Tab [Create, WIP: Steam n' Rails, Pantographs & Wires, Etc.]
+> Added Create Voltworks Tab [Create Power Grid, WIP: TFMG, Etc.]
 
 Mods Added:
 - Faster Iris Shadow Mapper
+- Ponder for KubeJS
+- Creative Tab Organizer
 - Create: Connected
 - Create: Steam 'n' Rails Neoforge (Fork)
+- Create: Pantographs & Wires
 - Vanilla Backport
-
+- REI
+- Jade
